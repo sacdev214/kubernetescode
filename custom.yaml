@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: custom
-        image: hshar/custom
+        image: sacdev/custom
         ports:
         - containerPort: 80
